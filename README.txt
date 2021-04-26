@@ -1,23 +1,23 @@
-                                                                                  Data Set E Code
-                                                                        By Christopher Strawn and Minh Duc Ong
+                            Data Set E Code
+                  By Christopher Strawn and Minh Duc Ong
 
-                                                        #####################################################################
-                                                        #   this README file is for understanding the following code:       #
-                                                        #                                                                   #
-                                                        #   Project_Graphs.ipynb                                            #
-                                                        #   Project_codev3.1-Outliers .ipynb                                #
-                                                        #   Project_codev3_2-Standard&Normalize.ipynb                       #
-                                                        #   Project_codev3_3-Avgtest.ipynb                                  #
-                                                        #   Project_codev3_4-Kbest.ipynb                                    #
-                                                        #   Project_codev3_4-knnKselect.ipynb                               #
-                                                        #   Project_codev3_5-Initial&avg6&prev3.ipynb                       #
-                                                        #   Project_codev3_5-Initial&avg6.ipynb                             #
-                                                        #   Project_codev3_5-Initial.ipynb                                  #
-                                                        #   Project_codev3_5-Poly.ipynb                                     #
-                                                        #   Project_codev3_5-avg6.ipynb                                     #
-                                                        #   Project_codev3_5-prev3.ipynb                                    #
-                                                        #                                                                   #
-                                                        #####################################################################
+  #####################################################################
+  #   this README file is for understanding the following code:       #
+  #                                                                   #
+  #   Project_Graphs.ipynb                                            #
+  #   Project_codev3.1-Outliers .ipynb                                #
+  #   Project_codev3_2-Standard&Normalize.ipynb                       #
+  #   Project_codev3_3-Avgtest.ipynb                                  #
+  #   Project_codev3_4-Kbest.ipynb                                    #
+  #   Project_codev3_4-knnKselect.ipynb                               #
+  #   Project_codev3_5-Initial&avg6&prev3.ipynb                       #
+  #   Project_codev3_5-Initial&avg6.ipynb                             #
+  #   Project_codev3_5-Initial.ipynb                                  #
+  #   Project_codev3_5-Poly.ipynb                                     #
+  #   Project_codev3_5-avg6.ipynb                                     #
+  #   Project_codev3_5-prev3.ipynb                                    #
+  #                                                                   #
+  #####################################################################
 
 
 
